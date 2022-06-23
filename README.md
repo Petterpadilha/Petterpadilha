@@ -4,7 +4,7 @@
 <br/>
 
 ![Petterson GitHub stats](https://github-readme-stats.vercel.app/api?username=petterpadilha&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petterpadilha&show&layout=compact)](https://github.com/USERNAME/github-readme-stats)
 
 
 ## Tecnologia utilizada no dia ...
